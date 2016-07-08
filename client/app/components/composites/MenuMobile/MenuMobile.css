@@ -140,3 +140,17 @@
     padding: var(--MenuItem_paddingOffScreenVertical) var(--MenuItem_paddingOffScreenHorizontalTablet);
   }
 }
+
+.menuSectionIcon {
+  margin-right: var(--MenuSection_iconMargin);
+}
+
+.languageList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.languageLink {
+  flex: 50%;
+}

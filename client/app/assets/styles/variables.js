@@ -203,6 +203,7 @@ module.exports = {
   '--MenuSection_fontSizeTitle': fontSizeSmaller,
   '--MenuSection_paddingOffScreenVertical': pxToEms(10, 12), // eslint-disable-line no-magic-numbers
   '--MenuSection_paddingOffScreenHorizontal': pxToEms(24, 12), // eslint-disable-line no-magic-numbers
+  '--MenuSection_iconMargin': pxToEms(5, 12), // eslint-disable-line no-magic-numbers
 
   '--MobileMenu_offscreenMenuWidth': '288px',
   '--MobileMenu_offscreenHeaderItemHeight': '44px',
